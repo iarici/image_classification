@@ -1,2 +1,2 @@
-# image_classification
-Building a neural network to predict image classes
+# Image classification with Neural Networks in Python
+Building a neural network to predict image classes.
